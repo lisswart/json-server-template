@@ -9,6 +9,7 @@
     "seed": "cp db/seeds.json db/db.json"
   },
   "dependencies": {
+    "chokidar": "^2.1.8",
     "cors": "^2.8.5",
     "json-server": "^0.16.3"
   },
