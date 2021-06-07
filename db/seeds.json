@@ -2,51 +2,59 @@
   "words": [
     {
       "id": 1,
-      "headword": "droll",
-      "definition": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "verbal-illustration": ""
+      "headword": "unfazed",
+      "functional label": "adjective",
+      "definition": "not perturbed or disconcerted",
+      "verbal-illustration": "the protestors were unfazed by the prospect of arrest"
     },
     {
       "id": 2,
       "headword": "brat",
-      "definition": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "verbal-illustration": ""
+      "functional label": "noun",
+      "definition": "a child who behaves very badly : an annoying child",
+      "verbal-illustration": "a bunch of ill-mannered little brats"
     },
     {
       "id": 3,
-      "headword": "fly",
-      "definition": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "verbal-illustration": ""
+      "headword": "undaunted",
+      "functional label": "adjective",
+      "definition": "feeling or displaying no fear by temperament",
+      "verbal-illustration": "undaunted despite their repeated failures at starting a business"
     },
     {
       "id": 4,
-      "headword": "butter",
-      "definition": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "verbal-illustration": ""
+      "headword": "cross",
+      "functional label": "adjective",
+      "definition": "annoyed or angry",
+      "verbal-illustration": "I was cross with her for being so careless"
     },
     {
       "id": 5,
-      "headword": "index",
-      "definition": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "verbal-illustration": ""
+      "headword": "perturb",
+      "functional label": "verb",
+      "definition": "to cause someone to be worried or upset",
+      "verbal-illustration": "It perturbed him that his son was thinking about leaving school"
     },
     {
       "id": 6,
-      "headword": "slug",
-      "definition": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "verbal-illustration": ""
+      "headword": "troll",
+      "functional label": "verb",
+      "definition": "to look through (as a place) carefully or thoroughly in an effort to find or discover something",
+      "verbal-illustration": "the owner of the bed-and-breakfast often trolls antique stores for furniture and knickknacks"
     },
     {
       "id": 7,
-      "headword": "port",
-      "definition": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "verbal-illustration": ""
+      "headword": "scurry",
+      "functional label": "verb",
+      "definition": "to proceed or move quickly",
+      "verbal-illustration": "everyone scurried back to work as soon as they had finished their lunch in the cafeteria"
     },
     {
       "id": 8,
-      "headword": "vest",
-      "definition": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "verbal-illustration": ""
+      "headword": "dawdle",
+      "functional label": "verb",
+      "definition": "to move or act slowly",
+      "verbal-illustration": "if you continue to dawdle, we'll be late for sure"
     }
   ]
 }
