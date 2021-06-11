@@ -55,6 +55,258 @@
       "functional label": "verb",
       "definition": "to move or act slowly",
       "verbal-illustration": "if you continue to dawdle, we'll be late for sure"
+    },
+    {
+      "id": 9,
+      "headword": "dart",
+      "functionalLabel": "verb",
+      "definition": "to make an irregular series of quick, sudden movements",
+      "verbalIllustration": "the housefly darted about the room until it found an open window and flew out"
+    },
+    {
+      "headword": "post",
+      "functionalLabel": "verb",
+      "definition": ":to put up (a sign, notice, etc.) so that it can be seen by many people",
+      "verbalIllustration": "The professor posted (up) the students's exam grades outside her office",
+      "id": 10
+    },
+    {
+      "headword": "post",
+      "functionalLabel": "verb",
+      "definition": ":to make (something) officially known to many people",
+      "verbalIllustration": "The company posted increased profits for the third quarter.",
+      "id": 11
+    },
+    {
+      "headword": "post",
+      "functionalLabel": "verb",
+      "definition": ":to add (a message) to an online message board ",
+      "verbalIllustration": "She posts regularly to several newsgroups.",
+      "id": 12
+    },
+    {
+      "headword": "post",
+      "functionalLabel": "verb",
+      "definition": ":to assign (someone, such as a guard) to stand or stay at a particular place",
+      "verbalIllustration": "Paramedics were posted nearby.",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "headword": "post",
+      "functionalLabel": "noun",
+      "definition": ":a piece of wood or metal that is set in an upright position into or on the ground especially as a support or marker",
+      "verbalIllustration": "fence posts"
+    },
+    {
+      "id": 15,
+      "headword": "clench",
+      "functionalLabel": "verb",
+      "definition": ":to set (something) in a tightly closed position",
+      "verbalIllustration": "His jaw clenched and unclenched as he listened to the speech."
+    },
+    {
+      "id": 16,
+      "headword": "clench",
+      "functionalLabel": "verb",
+      "definition": ":to hold (something) tightly",
+      "verbalIllustration": "She danced alone, with a rose clenched in her teeth."
+    },
+    {
+      "id": 17,
+      "headword": "clench",
+      "functionalLabel": "noun",
+      "definition": ":the act or manner of holding",
+      "verbalIllustration": "fearful that his suitcase might be stolen, he never once relaxed his clench on the handle"
+    },
+    {
+      "id": 18,
+      "headword": "clench",
+      "functionalLabel": "verb",
+      "definition": ":to have or keep in one's hands",
+      "verbalIllustration": "clenched a tissue in his hands as he told his story of misfortune"
+    },
+    {
+      "id": 19,
+      "headword": "clutch",
+      "functionalLabel": "verb",
+      "definition": ":to have or keep in one's hands",
+      "verbalIllustration": "he clutched the eggs carefully so he wouldn't drop them"
+    },
+    {
+      "id": 20,
+      "headword": "clasp",
+      "functionalLabel": "verb",
+      "definition": ":to fasten (something) with a clasp",
+      "verbalIllustration": "He clasped the keys to his belt"
+    },
+    {
+      "id": 21,
+      "headword": "clasp",
+      "functionalLabel": "verb",
+      "definition": ":to hold (someone or something) tightly with your hands or arms",
+      "verbalIllustration": "He clasped her hand gently/firmly."
+    },
+    {
+      "id": 22,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 23,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 24,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 25,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 26,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 27,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 28,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 29,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 30,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 31,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 32,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 33,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 34,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 35,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 36,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 37,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 38,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 39,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 40,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 41,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 42,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 43,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
+    },
+    {
+      "id": 44,
+      "headword": "",
+      "functionalLabel": "",
+      "definition": "",
+      "verbalIllustration": ""
     }
   ]
 }
