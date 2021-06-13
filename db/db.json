@@ -251,6 +251,34 @@
       "definition": "1:to start to be comfortable in a new situation 2:to begin to be confident or successful",
       "verbalIllustration": "1. They quickly found their feet in their adopted country. 2. I was away for a long time, so it will take me a while to find my feet again.",
       "id": 37
-      }
+      },
+      {
+        "headword": "linked list",
+        "functionalLabel": "data structure",
+        "definition": ":a way to represent a list of items, each item in the list is a node, and a node contains two things, the value itself and a reference to the next node on the list",
+        "verbalIllustration": "linked lists are a building block for more complex data structures",
+        "id": 38
+      },
+      {
+        "headword": "marvel",
+        "functionalLabel": "verb",
+        "definition": ":to feel great surprise, wonder, or admiration",
+        "verbalIllustration": "The doctors marveled that anyone could recover so quickly.",
+        "id": 39
+      },
+      {
+        "headword": "dangle",
+        "functionalLabel": "verb",
+        "definition": ":to hang down loosely especially in a way that makes it possible to swing freely",
+        "verbalIllustration": "He dangled a piece of string in front of the cat.",
+        "id": 38
+        },
+        {
+        "headword": "dangle",
+        "functionalLabel": "verb",
+        "definition": ":to offer (something) in order to persuade someone to do something",
+        "verbalIllustration": "The money she dangled in front of him wasn't enough to convince him to sell.",
+        "id": 39
+        }
   ]
 }
