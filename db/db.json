@@ -46,7 +46,7 @@
       "id": 7,
       "headword": "scurry",
       "functionalLabel": "verb",
-      "definition": "to proceed or move quickly",
+      "definition": ":to proceed or move quickly",
       "verbalIllustration": "everyone scurried back to work as soon as they had finished their lunch in the cafeteria"
     },
     {
@@ -162,13 +162,6 @@
       "verbalIllustration": "a woman invested with the strong desire to make the world a better place"
     },
     {
-      "id": 24,
-      "headword": "invest",
-      "functionalLabel": "verb",
-      "definition": ":to give official or legal power to",
-      "verbalIllustration": "invested him with power of attorney"
-    },
-    {
       "id": 25,
       "headword": "clutch",
       "functionalLabel": "noun",
@@ -197,116 +190,25 @@
       "verbalIllustration": "a nation no longer living in the clutch of a cruel tyrant"
     },
     {
-      "id": 29,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
+      "headword": "gall",
+      "functionalLabel": "verb",
+      "definition": ":to make (someone) feel annoyed or angry",
+      "verbalIllustration": "It galls me that such a small group of people can have so much power.",
+      "id": 29
     },
     {
-      "id": 30,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
+      "headword": "bide one's time",
+      "functionalLabel": "phrasal verb",
+      "definition": "to remain in place in readiness or expectation of something",
+      "verbalIllustration": "decided to bide her time until she had an opportunity to switch jobs",
+      "id": 30
     },
     {
-      "id": 31,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 32,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 33,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 34,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 35,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 36,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 37,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 38,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 39,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 40,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 41,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 42,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 43,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
-    },
-    {
-      "id": 44,
-      "headword": "",
-      "functionalLabel": "",
-      "definition": "",
-      "verbalIllustration": ""
+      "headword": "grist for the mill",
+      "functionalLabel": "phrasal noun",
+      "definition": ":something that can be used for a particular purpose",
+      "verbalIllustration": "Now that he's a writer, he regards his difficult childhood experience as grist for the mill.",
+      "id": 31
     }
   ]
 }
