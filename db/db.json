@@ -162,28 +162,28 @@
       "verbalIllustration": "a woman invested with the strong desire to make the world a better place"
     },
     {
-      "id": 25,
+      "id": 24,
       "headword": "clutch",
       "functionalLabel": "noun",
       "definition": ":a number of things considered as a unit",
       "verbalIllustration": "a clutch of medals adorned the general's chest"
     },
     {
-      "id": 26,
+      "id": 25,
       "headword": "clutch",
       "functionalLabel": "noun",
       "definition": ":a usually small number of persons considered as a unit",
       "verbalIllustration": "a clutch of people traveling together"
     },
     {
-      "id": 27,
+      "id": 26,
       "headword": "clutch",
       "functionalLabel": "noun",
       "definition": ":a time or state of affairs requiring prompt or decisive action",
       "verbalIllustration": "a football quarterback who always comes through in the clutch"
     },
     {
-      "id": 28,
+      "id": 27,
       "headword": "clutch",
       "functionalLabel": "noun",
       "definition": ":the right or means to command or control others",
@@ -194,147 +194,146 @@
       "functionalLabel": "verb",
       "definition": ":to make (someone) feel annoyed or angry",
       "verbalIllustration": "It galls me that such a small group of people can have so much power.",
-      "id": 29
+      "id": 28
     },
     {
       "headword": "bide one's time",
       "functionalLabel": "phrasal verb",
       "definition": "to remain in place in readiness or expectation of something",
       "verbalIllustration": "decided to bide her time until she had an opportunity to switch jobs",
-      "id": 30
-    },
+      "id": 29    },
     {
       "headword": "grist for the mill",
       "functionalLabel": "phrasal noun",
       "definition": ":something that can be used for a particular purpose",
       "verbalIllustration": "Now that he's a writer, he regards his difficult childhood experience as grist for the mill.",
-      "id": 31
+      "id": 30
     },
     {
       "headword": "run your eye over",
       "functionalLabel": "phrasal verb",
       "definition": ":to read or look at something quickly",
       "verbalIllustration": "Please run your eye over this and let me know what you think.",
-      "id": 32
+      "id": 31
     },
     {
       "headword": "run your eye down",
       "functionalLabel": "phrasal verb",
       "definition": ":to quickly read or look at (something, such as a list)",
       "verbalIllustration": "She ran her eye down the list looking for her name.",
-      "id": 33
+      "id": 32
     },
     {
       "headword": "up to your eyes",
       "functionalLabel": "phrasal adjective",
       "definition": ":deeply involved in or affected by something",
       "verbalIllustration": "We're up to our eyes in work. [=we are very busy]",
-      "id": 34
+      "id": 33
     },
     {
       "headword": "vigil",
       "functionalLabel": "noun",
       "definition": "an act or period of watching for signs of activity, danger, or opportunity",
       "verbalIllustration": "kept vigil at their ailing son's bedside the entire time he was in the hospital",
-      "id": 35
+      "id": 34
     },
     {
       "headword": "on the fence",
       "functionalLabel": "phrasal adjective",
       "definition": ":unable to decide about something",
       "verbalIllustration": "He tried to persuade those still (sitting) on the fence to vote in his favor.",
-      "id": 36
+      "id": 35
     },
     {
       "headword": "find your feet",
       "functionalLabel": "phrasal verb",
       "definition": "1:to start to be comfortable in a new situation 2:to begin to be confident or successful",
       "verbalIllustration": "1. They quickly found their feet in their adopted country. 2. I was away for a long time, so it will take me a while to find my feet again.",
-      "id": 37
+      "id": 36
     },
     {
       "headword": "linked list",
       "functionalLabel": "data structure",
       "definition": ":a way to represent a list of items, each item in the list is a node, and a node contains two things, the value itself and a reference to the next node on the list",
       "verbalIllustration": "linked lists are a building block for more complex data structures",
-      "id": 38
+      "id": 37
     },
     {
       "headword": "marvel",
       "functionalLabel": "verb",
       "definition": ":to feel great surprise, wonder, or admiration",
       "verbalIllustration": "The doctors marveled that anyone could recover so quickly.",
-      "id": 39
+      "id": 38
     },
     {
       "headword": "dangle",
       "functionalLabel": "verb",
       "definition": ":to hang down loosely especially in a way that makes it possible to swing freely",
       "verbalIllustration": "He dangled a piece of string in front of the cat.",
-      "id": 38
+      "id": 39
     },
     {
       "headword": "dangle",
       "functionalLabel": "verb",
       "definition": ":to offer (something) in order to persuade someone to do something",
       "verbalIllustration": "The money she dangled in front of him wasn't enough to convince him to sell.",
-      "id": 39
+      "id": 40
     },
     {
       "headword": "lacuna",
       "functionalLabel": "noun",
       "definition": "1:a gap or blank space in something; 2:a missing part",
       "verbalIllustration": "She found a lacuna in the historical record.",
-      "id": 40
+      "id": 41
     },
     {
     "headword": "dearth",
       "functionalLabel": "noun",
       "definition": ":a falling short of an essential or desirable amount or number",
       "verbalIllustration": "there was a dearth of usable firewood at the campsite",
-      "id": 41
+      "id": 42
     },
     {
       "headword": "dearth",
       "functionalLabel": "noun",
       "definition": ":the fact or state of being absent",
       "verbalIllustration": "the dearth of salesclerks at the shoe store annoyed us",
-      "id": 42
+      "id": 43
     },
     {
       "headword": "absent",
       "functionalLabel": "adjective",
       "definition": ":lost in thought and unaware of one's surroundings or actions",
       "verbalIllustration": "seemed absent when I told him you were coming because he nodded but didn't say anything",
-      "id": 43
+      "id": 44
     },
     {
       "headword": "absent",
       "functionalLabel": "preposition",
       "definition": ":not having",
       "verbalIllustration": "absent a significant source of investment funds, the fledgling company continues to struggle",
-      "id": 44
+      "id": 45
     },
     {
       "headword": "absent oneself",
       "functionalLabel": "phrase",
       "definition": ":to fail to attend",
       "verbalIllustration": "She found a plausible excuse to absent herself from the gathering.",
-      "id": 45
+      "id": 46
     },
     {
       "headword": "wary",
       "functionalLabel": "adjective",
       "definition": ":not having or showing complete trust in someone or something that could be dangerous or cause trouble",
       "verbalIllustration": "The store owner kept a wary eye on him.",
-      "id": 46
+      "id": 47
     },
     {
       "headword": "scrupulous",
       "functionalLabel": "adjective",
       "definition": ":taking, showing, or involving great care and effort",
       "verbalIllustration": "a scrupulous attention to detail is evident in all of his reporting",
-      "id": 47
+      "id": 48
     }
   ]
 }
