@@ -418,6 +418,62 @@
       "definition": ":coming before all others in importance",
       "verbalIllustration": "since the start of her acting career her parents have steadfastly remained her arch supporters",
       "id": 60
+    },
+    {
+      "headword": "bolt",
+      "functionalLabel": "verb",
+      "definition": ":to move or go very suddenly and quickly from or to a particular place, position, or condition",
+      "verbalIllustration": "She bolted awake when the alarm sounded.",
+      "id": 61
+    },
+    {
+      "headword": "bolt",
+      "functionalLabel": "verb",
+      "definition": "[1]:to attach (something) firmly, [2]:to attach (something) with a bolt",
+      "verbalIllustration": "[1]He bolted the panels together, [2]The bench was bolted to the floor.",
+      "id": 62
+    },
+    {
+      "headword": "snap up",
+      "functionalLabel": "phrasal verb",
+      "definition": ":to buy or take (something or someone) quickly or eagerly",
+      "verbalIllustration": "Shoppers came to the store to snap up bargains after the holidays.",
+      "id": 63
+    },
+    {
+      "headword": "quizzical",
+      "functionalLabel": "adjective",
+      "definition": ":showing that you do not understand something or that you find something strange or amusing",
+      "verbalIllustration": "She raised a quizzical eyebrow when she saw what he was wearing.",
+      "id": 64
+    },
+    {
+      "headword": "rigmarole",
+      "functionalLabel": "noun",
+      "definition": ":a long, complicated, and annoying process, description, etc",
+      "verbalIllustration": "We had to go through the rigmarole of installing, registering, and activating the software before we found out it wouldn't work.",
+      "id": 65
+    },
+    {
+      "headword": "laundry list",
+      "functionalLabel": "noun",
+      "definition": ":a long list of related things",
+      "verbalIllustration": "He recited a laundry list of problems.",
+      "id": 66
+    },
+    {
+      "headword": "list",
+      "functionalLabel": "verb",
+      "definition": ":to make a list of (names, things, etc)",
+      "verbalIllustration": "I listed my likes and dislikes.",
+      "id": 67
+    },
+    {
+      "headword": "list",
+      "functionalLabel": "verb",
+      "definition": ":to enter information about someone (something)",
+      "verbalIllustration": "The hospital has listed him (as being) in fair condition.",
+      "id": 68
     }  
   ]
 }
