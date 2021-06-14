@@ -334,6 +334,34 @@
       "definition": ":taking, showing, or involving great care and effort",
       "verbalIllustration": "a scrupulous attention to detail is evident in all of his reporting",
       "id": 48
+    },
+    {
+      "headword": "lore",
+      "functionalLabel": "noun",
+      "definition": ":traditional knowledge, beliefs, and stories that relate to a particular place, subject, or group",
+      "verbalIllustration": "[1]an event that has become part of local lore, [2]forest lore, [3]the lore of sailing",
+      "id": 49
+    },
+    {
+      "headword": "lore",
+      "functionalLabel": "noun",
+      "definition": ":a body of facts learned by study or experience",
+      "verbalIllustration": "the home gardener had acquired her herbal lore from many years of trial and error",
+      "id": 50
+    },
+    {
+      "headword": "bail",
+      "functional": "verb",
+      "definition": ":to leave a place often for another",
+      "verbalIllustration": "after two hours of that boring party, we were ready to bail",
+      "id": 51
+    },
+    {
+      "headword": "jump",
+      "functional": "verb",
+      "definition": ":to move suddenly and sharply (as in surprise?",
+      "verbalIllustration": "the sudden appearance of a mouse scurrying across the floor made me jump",
+      "id": 52
     }
   ]
 }
