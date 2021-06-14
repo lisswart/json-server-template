@@ -390,6 +390,34 @@
       "definition": ":a state of mental uncertainty",
       "verbalIllustration": "the new, supposedly improved forms simply put taxpayers in a bigger muddle",
       "id": 56
-    }
+    },
+    {
+      "headword": "angle",
+      "functionalLabel": "noun",
+      "definition": ":something that curves or is curved",
+      "verbalIllustration": "the road around the peninsula is all angles and hairpin turns",
+      "id": 57
+    },
+    {
+      "headword": "angle",
+      "functionalLabel": "noun",
+      "definition": ":a way of looking at or thinking about something",
+      "verbalIllustration": "what's your angle on the problem?",
+      "id": 58
+    },
+    {
+      "headword": "angle",
+      "functionalLabel": "verb",
+      "definition": ":to try to get what you want in a clever or indirect way",
+      "verbalIllustration": "She's been angling to get a promotion.",
+      "id": 59
+    },
+    {
+      "headword": "arch",
+      "functionalLabel": "adjective",
+      "definition": ":coming before all others in importance",
+      "verbalIllustration": "since the start of her acting career her parents have steadfastly remained her arch supporters",
+      "id": 60
+    }  
   ]
 }
