@@ -362,6 +362,34 @@
       "definition": ":to move suddenly and sharply (as in surprise?",
       "verbalIllustration": "the sudden appearance of a mouse scurrying across the floor made me jump",
       "id": 52
+    },
+    {
+      "headword": "muddle through",
+      "functionalLabel": "phrase",
+      "definition": "to do something without doing it very well or easily",
+      "verbalIllustration": "I had a hard time with the class, but somehow I muddled through.",
+      "id": 53
+    },
+    {
+      "headword": "muddle along",
+      "functionalLabel": "phrase",
+      "definition": "to think, act, or proceed in a confused way or without a plan",
+      "verbalIllustration": "She muddled along for a few years before going to college.",
+      "id": 54
+    },
+    {
+      "headword": "muddle",
+      "functionalLabel": "noun",
+      "definition": ":a disordered mixture",
+      "verbalIllustration": "a muddle of documents",
+      "id": 55
+    },
+    {
+      "headword": "muddle",
+      "functionalLabel": "noun",
+      "definition": ":a state of mental uncertainty",
+      "verbalIllustration": "the new, supposedly improved forms simply put taxpayers in a bigger muddle",
+      "id": 56
     }
   ]
 }
