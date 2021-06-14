@@ -351,14 +351,14 @@
     },
     {
       "headword": "bail",
-      "functional": "verb",
+      "functionalLabel": "verb",
       "definition": ":to leave a place often for another",
       "verbalIllustration": "after two hours of that boring party, we were ready to bail",
       "id": 51
     },
     {
       "headword": "jump",
-      "functional": "verb",
+      "functionalLabel": "verb",
       "definition": ":to move suddenly and sharply (as in surprise?",
       "verbalIllustration": "the sudden appearance of a mouse scurrying across the floor made me jump",
       "id": 52
