@@ -474,6 +474,34 @@
       "definition": ":to enter information about someone (something)",
       "verbalIllustration": "The hospital has listed him (as being) in fair condition.",
       "id": 68
-    }  
+    },
+    {
+      "headword": "fiddle",
+      "functionalLabel": "verb",
+      "definition": ":to make jerky or restless movements",
+      "verbalIllustration": "the executive fiddled with a pen as she impatiently waited for the meeting to begin",
+      "id": 69
+    },
+    {
+      "headword": "fiddle (around)",
+      "functionalLabel": "phrasal verb",
+      "definition": ":to spend time in aimless activity",
+      "verbalIllustration": "we spent the snow day just fiddling aroung",
+      "id": 70
+    },
+    {
+      "headword": "fiddle (with)",
+      "functionalLabel": "phrasal verb",
+      "definition": ":to handle thoughtlessly, ignorantly, or mischievously",
+      "verbalIllustration": "I could tell that someone had been fiddling with the carefully set controls on my entertainment system",
+      "id": 71
+    },
+    {
+      "headword": "fiddle away",
+      "functionalLabel": "phrasal verb",
+      "definition": ":to use up carelessly",
+      "verbalIllustration": "fiddled away the entire evening",
+      "id": 72
+    }
   ]
 }
