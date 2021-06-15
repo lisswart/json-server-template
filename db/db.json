@@ -606,6 +606,22 @@
       "verbalIllustration": "a droll little man with a peculiar sense of humor",
       "id": 76,
       "needsReview": true
+    },
+    {
+      "headword": "waddle",
+      "functionalLabel": "verb",
+      "definition": ":to walk with short steps while moving from side to side like a duck",
+      "verbalIllustration": "[1]He waddled down the hallway. [2]A fat goose waddled across the yard.",
+      "id": 77,
+      "needsReview": true
+    },
+    {
+      "headword": "zilch",
+      "functionalLabel": "noun",
+      "definition": ":nothing at all",
+      "verbalIllustration": "She's done zilch to help me out.",
+      "id": 78,
+      "needsReview": true
     }
   ]
 }
