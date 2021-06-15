@@ -574,6 +574,38 @@
       "verbalIllustration": "fiddled away the entire evening",
       "id": 72,
       "needsReview": true
+    },
+    {
+      "headword": "tremulous",
+      "functionalLabel": "adjective",
+      "definition": ":marked by or given to small uncontrollable bodily movements",
+      "verbalIllustration": "the frail woman extended a tremulous hand in welcome",
+      "id": 73,
+      "needsReview": true
+    },
+    {
+      "headword": "tremulous",
+      "functionalLabel": "adjective",
+      "definition": ":easily frightened",
+      "verbalIllustration": "a tremulous girl somehow mustered up the courage to ask a question of the governor",
+      "id": 74,
+      "needsReview": true
+    },
+    {
+      "headword": "muster",
+      "functionalLabel": "verb",
+      "definition": ":to work hard to find or get (courage, support, etc)",
+      "verbalIllustration": "He finally mustered (up) the courage to ask her on a date.",
+      "id": 75,
+      "needsReview": true
+    },
+    {
+      "headword": "droll",
+      "functionalLabel": "adjective",
+      "definition": ":having an odd and amusing quality",
+      "verbalIllustration": "a droll little man with a peculiar sense of humor",
+      "id": 76,
+      "needsReview": true
     }
   ]
 }
