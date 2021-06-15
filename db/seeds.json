@@ -625,11 +625,20 @@
       "needsReview": true
     },
     {
-      "headword": "meow",
-      "functionalLabel": "sound",
-      "definition":"a child who behaves very badly : an annoying child",
+      "headword": "jest",
+      "functionalLabel": "verb",
+      "definition":":to say things that are meant to cause laughter",
+      "verbalIllustration": "You voted for him? Surely you jest.",
       "id": 79,
       "needsReview": true
+    },
+    {
+      "headword": "jam",
+      "functionalLabel": "verb",
+      "definition": ":to press or push (an object) into a tight place",
+      "verbalIllustration": "He jammed the book back into the bookcase",
+      "needsReview": true,
+      "id": 80
     }
   ]
 }
