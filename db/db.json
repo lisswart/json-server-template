@@ -585,6 +585,14 @@
       "needsReview": true
     },
     {
+      "headword": "tremulous",
+      "functionalLabel": "adjective",
+      "definition": ":easily frightened",
+      "verbalIllustration": "a tremulous girl somehow mustered up the courage to ask a question of the governor",
+      "id": 74,
+      "needsReview": true
+    },
+    {
       "headword": "muster",
       "functionalLabel": "verb",
       "definition": ":to work hard to find or get (courage, support, etc)",
@@ -631,6 +639,14 @@
       "verbalIllustration": "He jammed the book back into the bookcase",
       "needsReview": true,
       "id": 80
+    },
+    {
+      "headword": "lull",
+      "functionalLabel": "verb",
+      "definition": ":to free from distress or disturbance",
+      "verbalIllustration": "the absence of attacks for such an extended period had lulled the nation into a false sense of security",
+      "needsReview": true,
+      "id": 81
     }
   ]
 }
