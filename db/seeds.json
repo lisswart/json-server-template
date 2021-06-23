@@ -6,7 +6,7 @@
       "functionalLabel": "adjective",
       "definition": "not perturbed or disconcerted",
       "verbalIllustration": "the protestors were unfazed by the prospect of arrest",
-      "needsReview": false
+      "needsReview": true
     },
     {
       "id": 2,
@@ -653,6 +653,7 @@
       "functionalLabel": "adjective",
       "definition": "playful and silly",
       "verbalIllustration": "a giddy atmosphere",
+      "needsReview": true,
       "id": 82
     },
     {
@@ -660,6 +661,7 @@
       "functionalLabel": "adjective",
       "definition": "feeling or showing great happiness and joy",
       "verbalIllustration": "He was giddy with delight",
+      "needsReview": true,
       "id": 83
     },
     {
@@ -667,6 +669,7 @@
       "functionalLabel": "adjective",
       "definition": "causing dizziness",
       "verbalIllustration": "giddy heights",
+      "needsReview": true,
       "id": 84
     }
   ]
