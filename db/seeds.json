@@ -647,6 +647,27 @@
       "verbalIllustration": "the absence of attacks for such an extended period had lulled the nation into a false sense of security",
       "needsReview": true,
       "id": 81
+    },
+    {
+      "headword": "giddy",
+      "functionalLabel": "adjective",
+      "definition": "playful and silly",
+      "verbalIllustration": "a giddy atmosphere",
+      "id": 82
+    },
+    {
+      "headword": "giddy",
+      "functionalLabel": "adjective",
+      "definition": "feeling or showing great happiness and joy",
+      "verbalIllustration": "He was giddy with delight",
+      "id": 83
+    },
+    {
+      "headword": "giddy",
+      "functionalLabel": "adjective",
+      "definition": "causing dizziness",
+      "verbalIllustration": "giddy heights",
+      "id": 84
     }
   ]
 }
