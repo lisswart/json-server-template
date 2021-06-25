@@ -671,6 +671,14 @@
       "verbalIllustration": "giddy heights",
       "needsReview": true,
       "id": 84
+    },
+    {
+      "headword": "modulate",
+      "functionalLabel": "verb",
+      "definition": ":to change or adjust (something) so that it exists in a balanced or proper amount",
+      "verbalIllustration": "These organs modulate [=regulate] the amount of salt in the body",
+      "needsReview": true,
+      "id": 85
     }
   ]
 }
